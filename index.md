@@ -1,5 +1,5 @@
 # The Chernyaev Diaries: A Digital History Exploration
-![](https://github.com/BSheskay/DH-Exploration-Exercise/tree/gh-pages/banner2.png)
+![banner](https://github.com/BSheskay/DH-Exploration-Exercise/tree/gh-pages/banner2.png)
 ## Anatoly Chernyaev: An brief introduction.
 
 For the fourth unit of this class, I have chosen the journals of Anatoly Chernyaev as my data set. So, who is Anatoly Chernyaev? To give a very breif introduction: He was a historian who worked in the Soviet Union as an analyst for Brezhnev during the Soviet-Afgan war and later as a foreign policy advisor for Gorbachev until the fall of the Soviet Union. 
