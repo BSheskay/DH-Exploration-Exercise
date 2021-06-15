@@ -20,7 +20,7 @@
 
 --------------------------------
 
-**1985:** [Archive Page](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB379/) // [PDF Link](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB379/1972%20as%20of%20May%2024,%202012%20FINAL.pdf)
+**1985:** [Archive Page](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB379/) // [PDF Link](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB192/Chernyaev_Diary_translation_1985.pdf)
 
 **1986:** [Archive Page](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB220/) // [PDF Link](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB220/Chernyaev_1986.pdf)
 
