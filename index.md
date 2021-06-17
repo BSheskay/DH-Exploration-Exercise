@@ -10,4 +10,7 @@ His personal diary features a fascinating first-person account of interactions a
 
 Given the rather lackluster archival techniques used by the National Security Archives, I will place a link to a directory containing not only [PDFs, including a compiled PDF of all of the translated eneteries so far (as of June 2021) but also direct links to all of the info pages to the enteries](https://github.com/BSheskay/DH-Exploration-Exercise/tree/archive). Something that is bafflingly spread across several domains. Hopefully I will help some future student who experienced the same issues as I did.
 
+## Chernyaev Demystified - Episode 0
+[Click here](/podcast.mp3) to listen to the audio.
+
 ## ~~The pain begins~~ Lets get started.
